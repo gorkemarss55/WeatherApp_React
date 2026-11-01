@@ -1,0 +1,3 @@
+/api/weather   /.netlify/functions/weather    200
+/api/forecast  /.netlify/functions/forecast   200
+/*             /index.html                    200
